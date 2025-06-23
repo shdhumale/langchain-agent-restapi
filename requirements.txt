@@ -2,3 +2,7 @@ requests
 langchain
 fastapi
 uvicorn
+langchain-google-genai
+google-generativeai
+dotenv
+langchain-community
